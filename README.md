@@ -13,7 +13,7 @@ You can install the development version of itdepends with the [devtools](http://
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("jimhester/itdepends")
+devtools::install_github("bahadzie/itdepends")
 ```
 
 ## Thanks
